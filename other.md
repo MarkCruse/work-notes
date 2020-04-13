@@ -2,6 +2,7 @@
 ### More React  
 [How to Create and Deploy a Serverless React App](https://codeburst.io/how-to-create-and-deploy-a-serverless-react-app-af40aee52420)  
 - [Single Page Example - Github](https://github.com/infrastructure-components/singlepage_example)  
+
 [How to build bulletproof react components](https://dev.to/jsco/how-to-build-bulletproof-react-components-mo7)  
 [5 Essential Libraries For Your Next React Application](https://medium.com/frontend-digest/5-essential-libraries-for-your-next-react-application-84d8d73e9806)  
 [6 Must-Use Tools for Front-End Development](https://medium.com/better-programming/6-must-use-tools-for-front-end-development-643f50c9161)  
