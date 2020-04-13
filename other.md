@@ -72,3 +72,4 @@
 [How To Read An Excel File In Node.js](https://medium.com/javascript-in-plain-english/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1)  
 [An Introduction to Geocoding Using Node.js](https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c)  
 [Using Node.js to Display Images in a Private AWS S3 Bucket](https://medium.com/javascript-in-plain-english/using-node-js-to-display-images-in-a-private-aws-s3-bucket-4c043ed5c5d0)  
+[6 Must-Use Tools for Front-End Development](https://medium.com/better-programming/6-must-use-tools-for-front-end-development-643f50c9161)
