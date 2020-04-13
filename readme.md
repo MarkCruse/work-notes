@@ -24,7 +24,7 @@ React is a popular web framework used by front-developers. It has a strong commu
 [Canvas LMS API Documentation](https://canvas.instructure.com/doc/api/index.html)  
 
 ### Miscellaneous  
-[MIT's - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+[MIT's - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)  
 [MIT's - The Missing Semester of Your CS Education (YouTube Videos)](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)  
 
 ### Articles/Tutorials completed and worth revisiting  
