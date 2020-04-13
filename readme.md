@@ -2,7 +2,7 @@
 ### Learning React  
 The majority of work I have been doing is considered backend programming. The Canvas Assignment Selector was initially designed as a basic web page. To truly make it a web application it needs to be built with a better user interface. A React UI will allow for better control of the information on the page.  
 
-React is a popular web framework used by front-developers. It has a strong community of developers who make open source packages for it, updating it with new and great features.    
+React is a popular web framework used by front-developers. It has a strong community of developers who make open source packages for it, updating it with new and great features.  
 
 [Getting Started With React.js — Part 1](https://medium.com/better-programming/getting-started-with-react-js-part-1-59598ef17780)  
 [Getting Started With React.js — Part 2](https://medium.com/better-programming/getting-started-with-react-js-part-2-3dbd08c680a2)  
@@ -15,7 +15,6 @@ React is a popular web framework used by front-developers. It has a strong commu
 [Supercharging Jupyter Notebooks - Jul 14, 19](https://towardsdatascience.com/supercharging-jupyter-notebooks-e22f5ad7ca18)  
 [Anaconda eBook Python Data Visualization 2019 Tools and Trends](Anaconda_eBook_PyViz_0519.pdf)  
 
-
 ### SQL  
 [Writing good SQL](https://towardsdatascience.com/writing-good-sql-ccb578ff9919)  
 [SAP HANA Academy - HANA SQL: SELECT WITH](https://www.youtube.com/watch?v=ngEca_5c-H4)  
@@ -27,7 +26,6 @@ React is a popular web framework used by front-developers. It has a strong commu
 ### Miscellaneous  
 [MIT's - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 [MIT's - The Missing Semester of Your CS Education (YouTube Videos)](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)  
-
 
 ### Articles/Tutorials completed and worth revisiting  
 [What I learned from building my own virtualized list library for React](https://dev.to/nishanbajracharya/what-i-learned-from-building-my-own-virtualized-list-library-for-react-45ik)  
