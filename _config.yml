@@ -1,5 +1,13 @@
 theme: jekyll-theme-hacker
 
+name: work-notes
+
+# Short description (goes below the title; it will also be used in the RSS feed)
+description: A list of things to work on.
+
+# Your name, as you want it to appear underneath each post and in the footer
+author: Mark
+
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -7,11 +15,3 @@ relative_links:
   collections: true
 include:
   - other.md
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
