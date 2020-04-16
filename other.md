@@ -41,20 +41,14 @@
 #### Kepler.gl
 [React Geospatial Visualization with kepler.gl](https://www.youtube.com/watch?v=BEZjt08Myxs&feature=youtu.be)
 
+[An Introduction to Using Jekyll With Bootstrap 4](https://medium.com/better-programming/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9) this is the base of the Jekyll-Bootstrap-Hacker template I created. The [Hacker Theme](https://pages-themes.github.io/hacker/) was used also. other sources: [plusjade/jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap), [jekyllbootstrap.com](http://jekyllbootstrap.com/)
 []()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
+[Jekyll Cheat Sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/)  
+[Jekyll Docs](https://jekyllrb.com/docs/)  
+[Bootstrap Grid System Docs](https://getbootstrap.com/docs/4.1/layout/grid/)  
 []()  
 []()  
 
-[]()  
-[]()  
-[]()  
 ### CrunchyData tileserve instructs from PostGIS  
 [Serving Dynamic Vector Tiles from PostGIS](https://info.crunchydata.com/blog/dynamic-vector-tiles-from-postgis)  
 [Querying Spatial Features with pg_featureserv](https://info.crunchydata.com/blog/crunchy-spatial-querying-spatial-features-with-pg_featureserv)  
@@ -75,3 +69,10 @@
 [Ebook Foundation - Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 [Leaflet Tips and Tricks](https://leanpub.com/leaflet-tips-and-tricks/read)
+[]()  
+[]()  
+[]()  
+
+[]()  
+[]()  
+[]()  
