@@ -1,3 +1,8 @@
+ A request from Mike and John Eric from Keiko to identify - 'the N and % of graduates from CLD over the past 3-4 years who received credit for CLD 102 and CLD 380.' A Jupyter Notebook found [here][1] documents the process as well as the Tableau Workbook and HANA SQL that answer the question.  
+
+
+
+[1]: <retrieve_degrees_awarded_merge_with_enrollment.md>  
 
 ### Learning React  
 The majority of work I have been doing is considered backend programming. The Canvas Assignment Selector was initially designed as a basic web page. To truly make it a web application it needs to be built with a better user interface. A React UI will allow for better control of the information on the page.  
