@@ -706,20 +706,12 @@ df
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
+      <th>academic_year</th>
       <th>count_of_graduates</th>
       <th>count_cld102</th>
       <th>count_cld380</th>
       <th>% CLD102</th>
       <th>% CLD380</th>
-    </tr>
-    <tr>
-      <th>academic_year</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
