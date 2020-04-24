@@ -1,8 +1,8 @@
 ### Current Week 
 
- [ x ] A request from Mike and John Eric from Keiko to identify - 'the N and % of graduates from CLD over the past 3-4 years who received credit for CLD 102 and CLD 380.' A Jupyter Notebook found [here](retrieve_degrees_awarded_merge_with_enrollment.md) documents the process as well as the Tableau Workbook and HANA SQL that answer the question.  
- 
- [ x ] Delaware Study - reworked the entire submission as some of the data was inflated due to the counting of events instead of sections.  
+ - [x] A request from Mike and John Eric from Keiko to identify - 'the N and % of graduates from CLD over the past 3-4 years who received credit for CLD 102 and CLD 380.' A Jupyter Notebook found [here](retrieve_degrees_awarded_merge_with_enrollment.md) documents the process as well as the Tableau Workbook and HANA SQL that answer the question.  
+
+ - [x] Delaware Study - reworked the entire submission as some of the data was inflated due to the counting of events instead of sections.  
 
 ---
 
